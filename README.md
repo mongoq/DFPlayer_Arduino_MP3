@@ -6,6 +6,6 @@ Materialsammlung:
 * https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
 * https://electronics.stackexchange.com/questions/354932/dfplayer-amplifier-give-weird-noise
 
-https://www.dfrobot.com/wiki/images/thumb/a/af/PlayerMini.png/550px-PlayerMini.png
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.dfrobot.com/wiki/images/thumb/a/af/PlayerMini.png/550px-PlayerMini.png
+ "Logo Title Text 1")
