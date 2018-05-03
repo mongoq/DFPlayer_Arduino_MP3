@@ -7,3 +7,4 @@ Materialsammlung:
 * https://electronics.stackexchange.com/questions/354932/dfplayer-amplifier-give-weird-noise
 
 ![Mono](https://www.dfrobot.com/wiki/images/thumb/a/af/PlayerMini.png/550px-PlayerMini.png)
+https://www.dfrobot.com/wiki/images/thumb/a/af/PlayerMini.png/550px-PlayerMini.png
